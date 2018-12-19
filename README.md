@@ -7,6 +7,15 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [0.9.0.2.0.0-beta] - 2018-12-19
+### Changed
+- Multitouch detection
+- Keyboard event -> shown in dashboard
+- Experimental recording of native maps and MapBox
+- Improvement of offline recordings
+- Several bugfixes
+
+
 ## [0.9.0.1.8.1-beta] - 2018-11-30
 ### Changed
 - Fixed `ArrayIndexOutOfBoundsException` bug described in issue #8.
