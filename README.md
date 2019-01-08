@@ -7,6 +7,12 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [0.9.0.2.0.2-beta] - 2019-01-08
+### Changed
+- Better click detection
+- Several bugfixes
+
+
 ## [0.9.0.2.0.0-beta] - 2018-12-19
 ### Changed
 - Multitouch detection
