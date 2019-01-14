@@ -7,6 +7,13 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [0.9.0.2.0.8-beta] - 2019-01-14
+### Changed
+- Overall performance improvements
+- Better handling of app's lifecycle
+- Several bugfixes
+
+
 ## [0.9.0.2.0.2-beta] - 2019-01-08
 ### Changed
 - Better click detection
