@@ -7,6 +7,13 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [0.9.0.2.1.4-beta] - 2019-01-14
+### Changed
+- Better detection of selectors
+- Better handling of orientation events
+- Minor non-critical bugfixes
+
+
 ## [0.9.0.2.0.8-beta] - 2019-01-14
 ### Changed
 - Overall performance improvements
