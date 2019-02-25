@@ -7,6 +7,14 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [0.9.0.2.1.9-beta] - 2019-02-25
+### Changed
+- Enhanced selector detection
+- Fixed display resolution metrics
+- Better functionality of pause/start methods
+- Fix of several stability issues
+
+
 ## [0.9.0.2.1.4-beta] - 2019-01-14
 ### Changed
 - Better detection of selectors
