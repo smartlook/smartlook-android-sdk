@@ -7,6 +7,17 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [0.9.0.2.3.9-beta] - 2019-03-26
+### Changed
+- Possibility to set desired FPS in init methods
+- Possibility to init SDK in the middle of the app lifecycle
+- Automatic detection of activity/fragment/dialog lifecycle + duration metrics
+- Fix of session length
+- Better detection that keyboard is active
+- Alpha functionality for form analytics -> You can now see which input was somehow problematic for the user to fill in
+- Fix of several stability issues
+
+
 ## [0.9.0.2.1.9-beta] - 2019-02-25
 ### Changed
 - Enhanced selector detection
