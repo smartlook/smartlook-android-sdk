@@ -7,6 +7,14 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [0.9.0.2.5.3-beta] - 2019-04-11
+### Changed
+- Possibility to use initPassive method and controll recording via start/pause methods
+- Fix of cached sessions -> sometimes we created two visitors for single user
+- Better lifecycle handling of the activities
+- Fix of stability issues for some Huawei/Honor models
+
+
 ## [0.9.0.2.3.9-beta] - 2019-03-26
 ### Changed
 - Possibility to set desired FPS in init methods
