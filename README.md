@@ -7,6 +7,26 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [1.0.0-native] - 2019-07-18
+
+### Added
+- Adaptive framerate (SDK does not capture new video frames when application idle)
+- View/class blacklist and whitelist for marking views as (non) sensitive
+- Sensitive mode
+
+### Changed
+- API rewriten and unified with iOS API
+- Timed event has event properties
+
+### Deprecated
+- Most of original API methods were deprecated
+
+### Fixed
+- Fixed keyboard detection
+- Recording is not randomly stopping on activity change or orientation change
+- Resolved OkHttp v3 and v4 incpomatibility crash
+- A variety of minnor issue were fixed
+
 ## [0.9.0.2.5.7-beta] - 2019-05-23
 ### Changed
 - New isRecording() method - you can now check if SDK is running or not
