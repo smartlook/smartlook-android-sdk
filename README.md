@@ -22,6 +22,7 @@ All notable changes to this project will be documented here.
 - Most of original API methods were deprecated
 
 ### Fixed
+- Significant stability improvement
 - Fixed keyboard detection
 - Recording is not randomly stopping on activity change or orientation change
 - Resolved OkHttp v3 and v4 incpomatibility crash
