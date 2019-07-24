@@ -7,6 +7,12 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [1.0.1-native] - 2019-07-24
+
+### Fixed
+- Fixed some minor stability issues
+- Resolved OkHttp v3 and v4 incompability issues
+
 ## [1.0.0-native] - 2019-07-18
 
 ### Added
