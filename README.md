@@ -7,6 +7,18 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [1.1.0-native] - 2019-08-07
+
+### Added
+- Custom navigation events
+- Added ability to not record sensitive elements in WebViews
+- Automatic hiding of input elements on WebViews
+
+### Fixed
+- Fixed some minor stability issues
+- Adaptive framerate is allowed only on native/React SDKs
+- Fixed some FragmentDialog recording issues
+
 ## [1.0.1-native] - 2019-07-24
 
 ### Fixed
