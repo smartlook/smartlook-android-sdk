@@ -7,6 +7,16 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+
+## [1.1.1-native] - 2019-08-19
+
+### Added
+- Added ability to adjust view name for "click" events
+- Prepared SDK for mobile uploads
+
+### Fixed
+- Json parsing issues
+
 ## [1.1.0-native] - 2019-08-07
 
 ### Added
