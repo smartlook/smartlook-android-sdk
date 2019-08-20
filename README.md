@@ -10,7 +10,7 @@ All notable changes to this project will be documented here.
 ## [1.1.2-native] - 2019-08-20
 
 ### Fixed
-- User identification now work consistently regardless of when it gets called
+- User identification now works consistently regardless of when it gets called
 
 ## [1.1.1-native] - 2019-08-19
 
