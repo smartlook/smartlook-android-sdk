@@ -7,6 +7,11 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [1.2.0-native] - 2019-08-20
+
+### Added
+- Chache gets cleared on low device drive space
+
 ## [1.1.2-native] - 2019-08-20
 
 ### Fixed
