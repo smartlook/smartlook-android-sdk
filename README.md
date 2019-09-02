@@ -11,6 +11,7 @@ All notable changes to this project will be documented here.
 
 ### Added
 - Chache gets cleared on low device drive space
+- Added custom Smartlook OkHttp interceptor
 
 ## [1.1.2-native] - 2019-08-20
 
