@@ -14,7 +14,7 @@ All notable changes to this project will be documented here.
 - Tracking of focus gain event
 
 ### Added
-- Detection on ANR implemented
+- Detection of ANR implemented
 - New custom timed event
 
 ### Changed
