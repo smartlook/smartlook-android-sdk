@@ -7,6 +7,19 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [1.1.5-native] - 2019-09-17
+
+### Fixed
+- Referrer detection now stable
+- Tracking of focus gain event
+
+### Added
+- Detection on ANR implemented
+- New custom timed event
+
+### Changed
+- Optimized video size and bitrate so the recordings are smaller than 0,5 MB per minute
+
 ## [1.1.2-native] - 2019-08-20
 
 ### Fixed
