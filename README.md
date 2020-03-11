@@ -7,7 +7,24 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
-## [1.1.5-native] - 2019-09-17
+## [1.4.0] - 2020-03-11
+
+### Added
+- Wireframe rendering mode
+- TabItem selector identification
+- OkHttp network interceptor
+
+### Fixed
+- Orientation detection problems
+- WebView recording stability issues
+
+### Changed
+- Improved image downscaling == better video quality
+- Smartlook API doesnt have obfuscated parameter names
+- Improved selector detection
+- Removed **deprecated** API methods from versions under 1.0.0
+
+## [1.1.5] - 2019-09-17
 
 ### Fixed
 - Referrer detection now stable
@@ -20,12 +37,12 @@ All notable changes to this project will be documented here.
 ### Changed
 - Optimized video size and bitrate so the recordings are smaller than 0,5 MB per minute
 
-## [1.1.2-native] - 2019-08-20
+## [1.1.2] - 2019-08-20
 
 ### Fixed
 - User identification now works consistently regardless of when it gets called
 
-## [1.1.1-native] - 2019-08-19
+## [1.1.1] - 2019-08-19
 
 ### Added
 - Added ability to adjust view name for "click" events
@@ -34,7 +51,7 @@ All notable changes to this project will be documented here.
 ### Fixed
 - Json parsing issues
 
-## [1.1.0-native] - 2019-08-07
+## [1.1.0] - 2019-08-07
 
 ### Added
 - Custom navigation events
@@ -46,13 +63,13 @@ All notable changes to this project will be documented here.
 - Adaptive framerate is allowed only on native/React SDKs
 - Fixed some FragmentDialog recording issues
 
-## [1.0.1-native] - 2019-07-24
+## [1.0.1] - 2019-07-24
 
 ### Fixed
 - Fixed some minor stability issues
 - Resolved OkHttp v3 and v4 incompability issues
 
-## [1.0.0-native] - 2019-07-18
+## [1.0.0] - 2019-07-18
 
 ### Added
 - Adaptive framerate (SDK does not capture new video frames when application idle)
