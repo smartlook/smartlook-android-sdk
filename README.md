@@ -7,6 +7,22 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [1.4.2] - 2020-04-16
+
+### Added
+- Smartlook setup Builder
+- Log listener API
+- Added various event tracking modes
+- WebView whitelisting
+
+### Fixed
+- **Smartlook.trackCustomEvent()** fixed -> all custom events are being handled correctly
+- Custom events send to the SDK on application start are now being tracked
+- All API constants (like `RenderingMode`, `LogAspect`, etc.) are now visible
+
+### Changed
+- Offline cache has strict rules now, so the SDK does not occupy large amount of device memory
+
 ## [1.4.0] - 2020-03-11
 
 ### Added
