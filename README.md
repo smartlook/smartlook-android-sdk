@@ -7,6 +7,24 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [1.5.0] - 2020-07-09
+
+### Added
+- New API for identification and user properties
+- Added `IntegrationListener` that can be used to obtain dashboard session and visitor URL
+- New `getDashboardVisitorUrl` method used to obtain dashboard visitor URL
+- Session can be now restarted using `resetSession` method
+- New visitor can be created using `resetSession` method with `resetUser` option set to TRUE
+
+### Fixed
+- Crashes tied to orientation changes
+- Identify now fully supports UTF-8
+
+### Changed
+- All `setup` and `setupAndStart` methods (appart from the basic variants with `apiKey` parameter only) are now deprecated
+- Method `getDashboardSessionUrl` has new option `withCurrentTimestamp` 
+- All SDK threads are now named
+
 ## [1.4.2] - 2020-04-16
 
 ### Added
