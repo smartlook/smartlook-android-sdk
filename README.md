@@ -13,6 +13,8 @@ All notable changes to this project will be documented here.
 - New API for identification and user properties
 - Added `IntegrationListener` that can be used to obtain dashboard session and visitor URL
 - New `getDashboardVisitorUrl` method used to obtain dashboard visitor URL
+- Session can be now restarted using `resetSession` method
+- New visitor can be crated using `resetSession` method with `resetUser` option set to TRUE
 
 ### Fixed
 - Crashes tied to orientation changes
