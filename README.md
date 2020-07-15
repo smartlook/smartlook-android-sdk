@@ -7,6 +7,11 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [1.5.1] - 2020-07-15
+
+### Fixed
+- Crashlytics handling
+
 ## [1.5.0] - 2020-07-09
 
 ### Added
