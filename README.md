@@ -7,6 +7,11 @@ This repository serves as an issue tracker.
 # Changelog
 All notable changes to this project will be documented here.
 
+## [1.5.2] - 2020-07-22
+
+### Fixed
+- Identify methods can be called outside UI thread
+
 ## [1.5.1] - 2020-07-15
 
 ### Fixed
